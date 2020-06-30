@@ -1,5 +1,5 @@
-# topology files (\*itp), trajectory and structure files (\*.gro) 
-# of Molecular Dynamics Simulation by GROMACS  
+## topology files (\*itp), trajectory and structure files (\*.gro)  
+## of Molecular Dynamics Simulation by GROMACS  
 - SPC/F water model: spcf.itp
 - Kerogen unit molecule model: ker.itp
 
