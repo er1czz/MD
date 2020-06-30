@@ -1,4 +1,6 @@
 ; Flexible Single Point Charge  (SPC/F) model of water 
+; Original reference Cygan, R. T., Liang, J. J., & Kalinichev, A. G. (2004). Molecular models of hydroxide, oxyhydroxide, and clay phases and the development of a general force field. The Journal of Physical Chemistry B, 108(4), 1255-1266.
+; https://doi.org/10.1021/jp0363287
 [ moleculetype ]
 ; molname       nrexcl
 SOL             2
