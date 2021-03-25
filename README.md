@@ -2,7 +2,8 @@
 - SPC/F water model: [spcf.itp](https://raw.githubusercontent.com/er1czz/md/master/spcf.itp)  
 - kerogen molecule force field: [ker.itp](https://raw.githubusercontent.com/er1czz/md/master/ker.itp)  
 - kerogen molecule model: [ker-opt.out.xyz](https://raw.githubusercontent.com/er1czz/md/master/ker-opt.out.xyz)  
-- kerogen slab model (gromacs format): [kerogen_slab.gro](https://raw.githubusercontent.com/er1czz/md/master/kerogen_slab.gro)  
+- kerogen slab model (gromacs format): [kerogen_slab.gro](https://raw.githubusercontent.com/er1czz/md/master/kerogen_slab.gro)
+- calcite molecule force field: [calcite.itp](https://raw.githubusercontent.com/er1czz/md/master/calcite.itp)
 **  >>> Note: If you want to download the file, right click and use "Save as". <<< **
 
 #### Trajectory files are available here https://github.com/er1czz/md
